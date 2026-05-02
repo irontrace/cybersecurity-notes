@@ -9,5 +9,5 @@ My personal learning notes and lab documentation
 - writeups/ - HTB and THM machine writeups
 - tools/ - tool usage notes and configs
 
-##Progress
+## Progress
 Phase 1: Foundation (Days 1 - 90) - IN PROGRESS
