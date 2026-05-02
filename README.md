@@ -2,6 +2,7 @@
 My personal learning notes and lab documentation
 
 **Started:** May 2, 2026
+
 **Goal:** Broad cybersecurity competency - pentesting, blue team, threat hunting, cloud security, and OT/ICS.
 
 ## Structure
