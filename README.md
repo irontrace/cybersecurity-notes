@@ -12,3 +12,7 @@ My personal learning notes and lab documentation
 
 ## Progress
 Phase 1: Foundation (Days 1 - 90) - IN PROGRESS
+
+### Completed Rooms
+- [x] THM: DNS in Detail (May 2, 2026)
+- [x] THM: HTTP in Detail (May 3, 2026) 
