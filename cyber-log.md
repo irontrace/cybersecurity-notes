@@ -1,0 +1,271 @@
+### START OF SESSION
+**Date:** May 2, 2026
+**Session:**** Day 1
+**Goal Today:** Set up GitHub, TryHackMe, and Anki
+**Mood going in (one honest word):** Motivated
+**Music Listening Too:** Dark Techno
+
+#### NOTES
+- Domain Name System (DNS) takes a human readable name and translates it to an IP address for that site.
+
+### END OF SESSION 
+**Stuck on anything?** The Pre-Security Path did not start at DNS in Detail so I went through each of the rooms prior to DNS in Detail.
+**Mood going out (one word)**: Exhausted
+**Time spent:** 5 Hours
+
+**Completed:**
+	[x] Cyber-log created in Obsidian and filled in at Start and end of Session
+	[x] GitHub Account created
+	[x] cybersecurity-notes repo created with README
+	[x] Portfolio website live at irontrace.github.io
+	[x]THM: DNS in Detail - DONE
+	[x] Anki installed on desktop + phone, accounts synced
+	[x] 5 Anki cards added and first review done
+	[x] Session noted in cyber-log
+
+
+### START OF SESSION
+**Date:** May 3, 2026
+**Session:**** Day 2
+**Goal Today:** Anki review first, THM: HTTP in Detail room, Add Anki cards, Update GitHub README, and 10-minute weekly reflection.
+**Mood going in (one honest word):** Exhausted
+**Music Listening Too:** Best of Paganini
+
+#### NOTES
+- None
+### END OF SESSION 
+**Stuck on anything?** No
+**Mood going out (one word)**: Tired
+**Time spent:** 1 Hour
+
+**Completed:**
+	[x] Anki review completed before starting the session
+	[x] cyber-log opened and filled in
+	[x] THM: HTTP in Detail - Completed with Green Badge
+	[x] 7 new Anki cards added and Anki synced to phone
+	[x] GitHub README updated with completed rooms list
+	[x] Weekly reflection written
+	[x] Session noted in cyber-log
+
+### WEEKLY REFLECTION
+- **What did I actually complete in the first 2 days?** My first road block was on Day 1 when I realized that there were more rooms than just starting off at DNS in Detail. To keep pace, I blasted music and pushed through to remain on track.
+- **Did the session log habit feel natural or forced?** I would not say it felt forced but definitely not used to session logs.
+- **What was harder than expected?** What was easier? Right now we are in the beginning so nothing really jumped out as hard. There is knowing the different errors that pages can throw.
+- **Did setting up GitHub feel overwhelming at any point? What helped?** Github was not hard to setup. I did run into an issue setting up my live webpage as it was not updating due to it just using the cached version.
+- **One thing I want to make sure I do consistently starting tomorrow is to be there daily.** I want to turn this into a habit and need over 30 days of daily commitment.
+- **Honest mood check:** Tired
+
+
+### START OF SESSION
+**Date:** May 4, 2026
+**Session:**** Day 3
+**Goal Today:** Anki Review, THM: How Websites Work room, and  add Anki cards. 
+**Mood going in (one honest word):** Exhausted
+**Music Listening Too:**  None
+
+#### NOTES
+- JavaScript Buttons should be placed outside of the Script Tags and in the Body of HTML
+### END OF SESSION 
+**Stuck on anything?** I got tripped up on the JavaScript portion and need to do a little more JavaScript coding to get better at it.
+**Mood going out (one word)**: Exhausted
+**Time spent:** 30 Minutes
+
+**Completed:**
+	[x] Anki review 
+	[x]THM: How Websites Work
+	[x] 3 Anki cards added
+	[x] Session noted in cyber-log
+	
+
+### START OF SESSION
+**Date:** May 5, 2026
+**Session:**** Day 4
+**Goal Today:** Anki review, THM: Putting it All Together room, Install Git on Desktop, Configure it, and create my first cheatsheet file in GitHub.
+**Mood going in (one honest word):** Angry
+**Music Listening Too:** Nothing
+
+#### NOTES
+- Created a PowerShell Profile so that Notepad++ will open up and not ask me to create new files. Also changed the default location of where PowerShell opens up.
+
+### END OF SESSION 
+**Stuck on anything?** No
+**Mood going out (one word)**: Angry 
+**Time spent:** 30 Minutes
+
+**Completed:**
+	[x] Anki Review 
+	[x] THM: Putting it All Together
+	[x] 3 Anki Cards added
+	[x] Created a PowerShell Profile so Notepad++ opens and does not ask to create new file
+	[x] Git installed and git --version confirms it works
+	[x] Git configured with name and email
+	[x] cybersecurity0notes repo cloned locally
+	[x] web-fundamentals-cheatsheet.md created and pushed to GitHub
+	[x] README updated with all 4 completed rooms and pushed 
+	[x] Session noted in cyber-log
+	
+
+### START OF SESSION
+**Date:** May 7, 2026
+**Session:**** Day 5
+**Goal Today:** Anki review, THM: Linux Fundamentals Part 1, and Add Linux command Anki Cards
+**Mood going in (one honest word):** Determined
+**Music Listening Too:** Dark Phonk String Quartet Vol. 30
+
+#### NOTES
+- $ find . -name "myfile.txt" will find all files name myfile.txt starting from the current directory.
+	- * is a wildcard
+- $ find / -name "myfile.txt" will search anywhere on the system but does require permissions
+- The -iname flag will ignore case. Meaning File.txt and file.txt will both be found.
+### END OF SESSION 
+**Stuck on anything?** No
+**Mood going out (one word)**: Proud
+**Time spent:** 1 Hour
+
+**Completed:**
+	[x] Anki review 
+	[x] THM Linux Fundamentals Part 1
+	[x] 8 new Linux Anki cards added to Cyber Core deck
+	[x] Anki synced
+	[x] Session noted in cyber-log
+	
+
+### START OF SESSION
+**Date:** May 8, 2026
+**Session:**** Day 6
+**Goal Today:** Anki review, THM: Linux Fundamentals Part 2, Add more Linux Anki cards
+**Mood going in (one honest word):** Angry
+**Music Listening Too:** Violin Metal
+
+#### NOTES
+- ls -la # shows permissions for all files
+- chmod 755 file # set permissions using numeric notation
+- chmod +x file # adds execute permission
+- chown user file # change file owner
+- chown user:group file # change owner and group
+- Permission bits; read(4), wirte(2), and execute(1)
+- id # show your user ID and groups
+- cat /etc/passwd # list all users
+- cat /etc/group # list all groups
+- su username # switch to another user
+- sudo # run command as root
+- ps aux # list all running processes
+- kill PID # kill a process by id
+- top # live process monitor
+- bg / fg # send to background / bring to foreground
+
+### END OF SESSION 
+**Stuck on anything?** Nothing to difficult
+**Mood going out (one word)**: Exhausted 
+**Time spent:** 30 Minutes
+
+**Completed:**
+	[x] Anki Review 
+	[x] Linux Fundamentals Part 2
+	[x] New Anki Cards Added
+	[x] Anki synced to Phone
+	[x] Session noted in cyber-log
+	
+	
+### START OF SESSION
+**Date:** May 9, 2026
+**Session:**** Day 7
+**Goal Today:** Complete Linux Fundamentals 3, Update GitHub, and close Week 1
+**Mood going in (one honest word):** Fatigued
+**Music Listening Too:** Dark Techno / EBM / Industrial Bass Mix 'TITAN' and SABBATH | Hypnotic Dark Techno / EBM / Industrial Bass Mix [1 Hour]
+
+#### NOTES
+- Secure Copy (SCP)
+	- Copy to Remote system: scp fileToCopy.txt username@IP:/location/copiedFile.txt
+	- Copy from Remote system: scp username@IP:/location/fileToCopy.txt copiedFile.txt
+- To run Python3's HTTP Server: python3 -m http.server
+	- wget can be used to download files from the server. wget http://ip:8000/file
+- Kill Processes
+	- SIGTERM - Kill the process, but allow it to do some cleanup tasks beforehand
+	- SIGKILL - Kill the process - doesn't do any cleanup after the fact
+	- SIGSTOP - Stop/suspend a process
+- Systemctl allows up to interact with the systemd process/daemon systemctl option service
+	- The five options are start, stop, enable, disable, status
+- Crontabs use 6 specific values:
+	- MIN - What minute to execute at
+	- HOUR - What hour to execute at
+	- DOM - What day of the month to execute at
+	- MON - What month of the year to execute at
+	- DOW - What day of the week to execute at
+	- CMD - The actual command that will be executed
+- Adding a GPG key and using apt-key to trust it:
+	- wget -q0 - link to gpg file | sudo apt-key add -
+	- create a file named programName.list in /etc/apt/sources.list.d
+- The fail2ban logs monitors attempted brute forces and failed login attempts
+
+### END OF SESSION 
+**Stuck on anything?** Crontabs trip me up still
+**Mood going out (one word)**: Optimistic
+**Time spent:** 2 Hours
+
+**Completed:**
+	[x] Installed Vmware Workstation Pro with Kali Linux
+	[x] Anki Review
+	[x] Linux Fundamentals Part 3
+	[x] Linux Cheatsheet created and pushed to Github
+	[x] README updated with all completed rooms
+	[x] New Anki Cards Added
+	[x] Session noted in cyber-log
+	
+
+### START OF SESSION
+**Date:** May 10, 2026
+**Session:**** Day 8
+**Goal Today:** Windows Fundamentals Part 1
+**Mood going in (one honest word):** Drained
+**Music Listening Too:** Violin Metal - The Violin Led Where Darkness Couldn't Follow
+
+#### NOTES
+- A feature of NTFS is Alternate Data Streams (ADS) which allows files to contain more than one stream of data. Malware writers have used ADS to hide data.
+- File System:
+	- System32 - Core OS files, high-value target
+	- Username - user profiles and data
+	- Program Files - installed applications
+	- %TEMP% - Temp files, often used by malware
+	- ProgramData - Hidden App Data
+- Registry (regedit):
+	- HKEY_LOCAL_MACHINE (HKLM) - System-wide settings
+	- HKEY_CURRENT_USER (HKCU) - Current User Settings
+	- HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run - Programs that start at boot - persistence mechanism
+- Task Manager:
+	- Process Tab - What is running and who owns it
+	- Startup Tab - What runs at boot
+	- Services Tab - Background Services
+
+### END OF SESSION 
+**Stuck on anything?** None
+**Mood going out (one word)**: Drained 
+**Time spent:** 30 Minutes
+
+**Completed:**
+	[x] Anki Review 
+	[x] Windows Fundamentals 1
+	[x] Anki cards added and synced
+	[x] Session noted in cyber-log
+	
+
+### START OF SESSION
+**Date:** May 16, 2026
+**Session:**** Day 9
+**Goal Today:** Anki Review, Windows Fundamentals Part 2, and Weekly Reflection
+**Mood going in:** Returning after a rough stretch
+**Music Listening Too:** Dark Neoclassical Cello - Requiem for Wonderland | Music for Study & Focus
+
+#### NOTES
+- 
+### END OF SESSION 
+**Stuck on anything?** 
+**Mood going out (one word)**: 
+**Time spent:** 
+
+**Completed:**
+	[] Anki Review
+	[] Windows Fundamentals Part 2
+	[] Anki cards added and synced
+	[] Weekly Reflection
+	[] Session noted in cyber-log
