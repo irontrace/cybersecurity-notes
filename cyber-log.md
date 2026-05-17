@@ -13,7 +13,7 @@
 **Mood going out (one word):** Exhausted  
 **Time spent:** 5 Hours  
 
-**Completed:**
+**Completed:**  
 	[x] Cyber-log created in Obsidian and filled in at Start and end of Session  
 	[x] GitHub Account created  
 	[x] cybersecurity-notes repo created with README  
@@ -39,7 +39,7 @@
 **Mood going out (one word):** Tired  
 **Time spent:** 1 Hour  
 
-**Completed:**
+**Completed:**  
 	[x] Anki review completed before starting the session  
 	[x] cyber-log opened and filled in  
 	[x] THM: HTTP in Detail - Completed with Green Badge  
@@ -72,7 +72,7 @@
 **Mood going out (one word):** Exhausted  
 **Time spent:** 30 Minutes  
 
-**Completed:**
+**Completed:**  
 	[x] Anki review  
 	[x] THM: How Websites Work  
 	[x] 3 Anki cards added  
@@ -95,7 +95,7 @@
 **Mood going out (one word):** Angry  
 **Time spent:** 30 Minutes  
 
-**Completed:**
+**Completed:**  
 	[x] Anki Review  
 	[x] THM: Putting it All Together  
 	[x] 3 Anki Cards added  
@@ -128,7 +128,7 @@ find . -iname "myfile.txt"   # case-insensitive search
 **Mood going out (one word):** Proud  
 **Time spent:** 1 Hour  
 
-**Completed:**
+**Completed:**  
 	[x] Anki review  
 	[x] THM Linux Fundamentals Part 1  
 	[x] 8 new Linux Anki cards added to Cyber Core deck  
@@ -170,7 +170,7 @@ bg / fg                   # send to background / bring to foreground
 **Mood going out (one word):** Exhausted  
 **Time spent:** 30 Minutes  
 
-**Completed:**
+**Completed:**  
 	[x] Anki Review  
 	[x] Linux Fundamentals Part 2  
 	[x] New Anki Cards Added  
@@ -233,7 +233,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Mood going out (one word):** Optimistic  
 **Time spent:** 2 Hours  
 
-**Completed:**
+**Completed:**  
 	[x] Installed Vmware Workstation Pro with Kali Linux  
 	[x] Anki Review  
 	[x] Linux Fundamentals Part 3  
@@ -272,7 +272,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Mood going out (one word):** Drained  
 **Time spent:** 30 Minutes  
 
-**Completed:**
+**Completed:**  
 	[x] Anki Review  
 	[x] Windows Fundamentals 1  
 	[x] Anki cards added and synced  
@@ -315,7 +315,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Mood going out (one word):**  
 **Time spent:**  
 
-**Completed:**
+**Completed:**  
 	[x] Anki Review  
 	[x] Windows Fundamentals Part 2  
 	[x] Anki cards added and synced  
