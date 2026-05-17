@@ -14,14 +14,14 @@
 **Time spent:** 5 Hours  
 
 **Completed:**
-	[x] Cyber-log created in Obsidian and filled in at Start and end of Session
-	[x] GitHub Account created
-	[x] cybersecurity-notes repo created with README
-	[x] Portfolio website live at irontrace.github.io
-	[x] THM: DNS in Detail - DONE
-	[x] Anki installed on desktop + phone, accounts synced
-	[x] 5 Anki cards added and first review done
-	[x] Session noted in cyber-log
+	[x] Cyber-log created in Obsidian and filled in at Start and end of Session  
+	[x] GitHub Account created  
+	[x] cybersecurity-notes repo created with README  
+	[x] Portfolio website live at irontrace.github.io  
+	[x] THM: DNS in Detail  
+	[x] Anki installed on desktop + phone, accounts synced  
+	[x] 5 Anki cards added and first review done  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -40,13 +40,13 @@
 **Time spent:** 1 Hour  
 
 **Completed:**
-	[x] Anki review completed before starting the session
-	[x] cyber-log opened and filled in
-	[x] THM: HTTP in Detail - Completed with Green Badge
-	[x] 7 new Anki cards added and Anki synced to phone
-	[x] GitHub README updated with completed rooms list
-	[x] Weekly reflection written
-	[x] Session noted in cyber-log
+	[x] Anki review completed before starting the session  
+	[x] cyber-log opened and filled in  
+	[x] THM: HTTP in Detail - Completed with Green Badge  
+	[x] 7 new Anki cards added and Anki synced to phone  
+	[x] GitHub README updated with completed rooms list  
+	[x] Weekly reflection written  
+	[x] Session noted in cyber-log  
 
 ### WEEKLY REFLECTION
 - **What did I actually complete in the first 2 days?** My first road block was on Day 1 when I realized that there were more rooms than just starting off at DNS in Detail. To keep pace, I blasted music and pushed through to remain on track.
@@ -73,10 +73,10 @@
 **Time spent:** 30 Minutes  
 
 **Completed:**
-	[x] Anki review
-	[x] THM: How Websites Work
-	[x] 3 Anki cards added
-	[x] Session noted in cyber-log
+	[x] Anki review  
+	[x] THM: How Websites Work  
+	[x] 3 Anki cards added  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -96,16 +96,16 @@
 **Time spent:** 30 Minutes  
 
 **Completed:**
-	[x] Anki Review
-	[x] THM: Putting it All Together
-	[x] 3 Anki Cards added
-	[x] Created a PowerShell Profile so Notepad++ opens and does not ask to create new file
-	[x] Git installed and git --version confirms it works
-	[x] Git configured with name and email
-	[x] cybersecurity-notes repo cloned locally
-	[x] web-fundamentals-cheatsheet.md created and pushed to GitHub
-	[x] README updated with all 4 completed rooms and pushed
-	[x] Session noted in cyber-log
+	[x] Anki Review  
+	[x] THM: Putting it All Together  
+	[x] 3 Anki Cards added  
+	[x] Created a PowerShell Profile so Notepad++ opens and does not ask to create new file  
+	[x] Git installed and git --version confirms it works  
+	[x] Git configured with name and email  
+	[x] cybersecurity-notes repo cloned locally  
+	[x] web-fundamentals-cheatsheet.md created and pushed to GitHub  
+	[x] README updated with all 4 completed rooms and pushed  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -129,11 +129,11 @@ find . -iname "myfile.txt"   # case-insensitive search
 **Time spent:** 1 Hour  
 
 **Completed:**
-	[x] Anki review
-	[x] THM Linux Fundamentals Part 1
-	[x] 8 new Linux Anki cards added to Cyber Core deck
-	[x] Anki synced
-	[x] Session noted in cyber-log
+	[x] Anki review  
+	[x] THM Linux Fundamentals Part 1  
+	[x] 8 new Linux Anki cards added to Cyber Core deck  
+	[x] Anki synced  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -171,11 +171,11 @@ bg / fg                   # send to background / bring to foreground
 **Time spent:** 30 Minutes  
 
 **Completed:**
-	[x] Anki Review
-	[x] Linux Fundamentals Part 2
-	[x] New Anki Cards Added
-	[x] Anki synced to Phone
-	[x] Session noted in cyber-log
+	[x] Anki Review  
+	[x] Linux Fundamentals Part 2  
+	[x] New Anki Cards Added  
+	[x] Anki synced to Phone  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -234,13 +234,13 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Time spent:** 2 Hours  
 
 **Completed:**
-	[x] Installed Vmware Workstation Pro with Kali Linux
-	[x] Anki Review
-	[x] Linux Fundamentals Part 3
-	[x] Linux Cheatsheet created and pushed to Github
-	[x] README updated with all completed rooms
-	[x] New Anki Cards Added
-	[x] Session noted in cyber-log
+	[x] Installed Vmware Workstation Pro with Kali Linux  
+	[x] Anki Review  
+	[x] Linux Fundamentals Part 3  
+	[x] Linux Cheatsheet created and pushed to Github  
+	[x] README updated with all completed rooms  
+	[x] New Anki Cards Added  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -273,10 +273,10 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Time spent:** 30 Minutes  
 
 **Completed:**
-	[x] Anki Review
-	[x] Windows Fundamentals 1
-	[x] Anki cards added and synced
-	[x] Session noted in cyber-log
+	[x] Anki Review  
+	[x] Windows Fundamentals 1  
+	[x] Anki cards added and synced  
+	[x] Session noted in cyber-log  
 
 
 ### START OF SESSION
@@ -316,11 +316,11 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Time spent:**  
 
 **Completed:**
-	[x] Anki Review
-	[x] Windows Fundamentals Part 2
-	[x] Anki cards added and synced
-	[x] Weekly Reflection
-	[x] Session noted in cyber-log
+	[x] Anki Review  
+	[x] Windows Fundamentals Part 2  
+	[x] Anki cards added and synced  
+	[x] Weekly Reflection  
+	[x] Session noted in cyber-log  
 
 ### Weekly reflection
 **What feels more natural this week vs last week?** I am more comfortable using the command line and utilizing git via command line.  
