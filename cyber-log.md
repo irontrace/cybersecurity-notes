@@ -341,7 +341,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 - Windows updates are typically released on the 2nd Tuesday of each month. This day is called Patch Tuesday.  
 
 **Device Security - Core Isolation**  
-	- **Memory Integrity** - Prevents attacks from inserting malicious code into high-security processes  
+- **Memory Integrity** - Prevents attacks from inserting malicious code into high-security processes  
 	
 - **Trusted Platform Module (TMP)** is a secure crypto-processor that is desgigned to carry out cryptographic operations.  
 - **Bitlocker** is a data protection feature that integrates with the OS and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers.  
