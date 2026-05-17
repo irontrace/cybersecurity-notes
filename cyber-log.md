@@ -284,11 +284,31 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Session:** Day 9  
 **Goal Today:** Anki Review, Windows Fundamentals Part 2, and Weekly Reflection  
 **Mood going in:** Returning after a rough stretch  
-**Music Listening Too:** Dark Neoclassical Cello - Requiem for Wonderland | Music for Study & Focus  
+**Music Listening Too:** 2 HOURS Dark Cyberpunk/EBM/Industrial Mix 'UMBRELLA'
 
 #### NOTES
 - Quick Access to Startup Folder (Useful for Work)
-	- Windows + R:
+	- Windows + R to open Run Dialog, type shell:startup
+	
+**Event Types**  
+| Event Type | Meaning |
+|------------|---------|
+| Critical | Indicates a serious failure that requires immediate attention, where the issue has caused or will cause a system or application to stop functioning |
+| Error | Indicates a significant problem such as loss of data or loss of functionality |
+| Warning | Not necessarily significant, but may indicate a possible future problem |
+| Information | Describes the successful operation of an application, driver, or service |
+| Audit Success | Records an audited security access attempt that is successful |
+| Audit Failure | Records an audited security access attempt that fails |
+	
+**Log Types**  
+| Log | Description |
+|-----|-------------|
+| Application | Contains events logged by applications |
+| Security | Contains events such as valid and invalid logon attempts, as well as events related to resource use such as creating, opening, or deleting files or other objects |
+| System | Contains events logged by system components, such as the failure of a driver or other system component ot load during startup |
+| CustomLog | Contains events logged by applications that create a custom log |
+
+- System Information (msinfo32) is a tool that gathers information about your computer and displays a comprehensive view of your hardware, system components, and software environment, which you can use to diagnose computer issues.
 
 ### END OF SESSION
 **Stuck on anything?**  
@@ -297,7 +317,15 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 
 **Completed:**
 	[x] Anki Review
-	[] Windows Fundamentals Part 2
-	[] Anki cards added and synced
-	[] Weekly Reflection
-	[] Session noted in cyber-log
+	[x] Windows Fundamentals Part 2
+	[x] Anki cards added and synced
+	[x] Weekly Reflection
+	[x] Session noted in cyber-log
+
+### Weekly reflection
+**What feels more natural this week vs last week?** I am more comfortable using the command line and utilizing git via command line.  
+**Are you typing commands from memory yet?** I am doing a lot of commands from memory. I do not quite have the git commands committed to memory yet.  
+**What felt hard this week?** The hardest part this week was trying to find motivation to go downstairs and actually study. I been dealing with a lot of home life issues and felt like I could not be bothered to go downstairs.  
+**What would you do differently?** I am actually going to setup my laptop so I have a system upstairs I can use if I do not find myself wanting to go downstairs.  
+**Are you keeping up with Anki daily?** I am actually keeping up with Anki daily. I find while I am at work and have a few minutes of downtime, I am able to open up Anki and study.  
+
