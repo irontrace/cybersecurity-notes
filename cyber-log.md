@@ -130,7 +130,7 @@ find . -iname "myfile.txt"   # case-insensitive search
 
 **Completed:**  
 	[x] Anki review  
-	[x] THM Linux Fundamentals Part 1  
+	[x] THM: Linux Fundamentals Part 1  
 	[x] 8 new Linux Anki cards added to Cyber Core deck  
 	[x] Anki synced  
 	[x] Session noted in cyber-log  
@@ -172,7 +172,7 @@ bg / fg                   # send to background / bring to foreground
 
 **Completed:**  
 	[x] Anki Review  
-	[x] Linux Fundamentals Part 2  
+	[x] THM: Linux Fundamentals Part 2  
 	[x] New Anki Cards Added  
 	[x] Anki synced to Phone  
 	[x] Session noted in cyber-log  
@@ -236,7 +236,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Completed:**  
 	[x] Installed Vmware Workstation Pro with Kali Linux  
 	[x] Anki Review  
-	[x] Linux Fundamentals Part 3  
+	[x] THM: Linux Fundamentals Part 3  
 	[x] Linux Cheatsheet created and pushed to Github  
 	[x] README updated with all completed rooms  
 	[x] New Anki Cards Added  
@@ -274,7 +274,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 
 **Completed:**  
 	[x] Anki Review  
-	[x] Windows Fundamentals 1  
+	[x] THM: Windows Fundamentals 1  
 	[x] Anki cards added and synced  
 	[x] Session noted in cyber-log  
 
@@ -282,7 +282,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 ### START OF SESSION
 **Date:** May 16, 2026  
 **Session:** Day 9  
-**Goal Today:** Anki Review, Windows Fundamentals Part 2, and Weekly Reflection  
+**Goal Today:** Anki Review, Windows Fundamentals Part 2, Add Anki Cards, and Weekly Reflection  
 **Mood going in:** Returning after a rough stretch  
 **Music Listening Too:** 2 HOURS Dark Cyberpunk/EBM/Industrial Mix 'UMBRELLA'
 
@@ -311,13 +311,13 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 - System Information (msinfo32) is a tool that gathers information about your computer and displays a comprehensive view of your hardware, system components, and software environment, which you can use to diagnose computer issues.
 
 ### END OF SESSION
-**Stuck on anything?**  
-**Mood going out (one word):**  
-**Time spent:**  
+**Stuck on anything?** Nothing too difficult  
+**Mood going out (one word):** Good  
+**Time spent:** 1 Hour  
 
 **Completed:**  
 	[x] Anki Review  
-	[x] Windows Fundamentals Part 2  
+	[x] THM: Windows Fundamentals Part 2  
 	[x] Anki cards added and synced  
 	[x] Weekly Reflection  
 	[x] Session noted in cyber-log  
@@ -329,3 +329,33 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **What would you do differently?** I am actually going to setup my laptop so I have a system upstairs I can use if I do not find myself wanting to go downstairs.  
 **Are you keeping up with Anki daily?** I am actually keeping up with Anki daily. I find while I am at work and have a few minutes of downtime, I am able to open up Anki and study.  
 
+
+### START OF SESSION
+**Date:** May 17, 2026  
+**Session:** Day 10  
+**Goal Today:** Anki review, THM: Windows Fundamentals Part 3, and Add Anki Cards  
+**Mood going in (one honest word):** Focused    
+**Music Listening Too:** 2 HOURS Dark Cyberpunk/EBM/Industrial Mix 'UMBRELLA'
+
+#### NOTES
+- Windows updates are typically released on the 2nd Tuesday of each month. This day is called Patch Tuesday.  
+
+**Device Security - Core Isolation**  
+	- **Memory Integrity** - Prevents attacks from inserting malicious code into high-security processes  
+	
+- **Trusted Platform Module (TMP)** is a secure crypto-processor that is desgigned to carry out cryptographic operations.  
+- **Bitlocker** is a data protection feature that integrates with the OS and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers.  
+	- If a system does not have TPM version 1.2 or later, use a USB with the startup key on it.  
+- **Volume Shadow Copy Service (VSS)** Creates a consistent shadow copy (snapshot) of the data that is to be backed up.  
+
+### END OF SESSION
+**Stuck on anything?** 
+**Mood going out (one word):**   
+**Time spent:**   
+
+**Completed:**  
+	[x] Anki review  
+	[x] THM: Windows Fundamentals Part 3  
+	[x] Anki cards added and synced    
+	[x] windows-security-cheatsheet.md Created and pushed to Git
+	[x] Session noted in cyber-log  
