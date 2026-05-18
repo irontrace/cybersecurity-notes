@@ -359,3 +359,27 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 	[x] Anki cards added and synced    
 	[x] windows-security-cheatsheet.md Created and pushed to Git
 	[x] Session noted in cyber-log  
+	
+	
+### START OF SESSION
+**Date:** May 18, 2026  
+**Session:** Day 11  
+**Goal Today:** Anki review, THM: What is Networking?, THM: Intro to LAN, and Add Anki Cards   
+**Mood going in (one honest word):** Exhausted   
+**Music Listening Too:** None  
+
+#### NOTES
+
+### END OF SESSION
+**Stuck on anything?** No. It was pretty basic stuff.   
+**Mood going out (one word):** Tired   
+**Time spent:** 30 Mins  
+
+**Completed:**  
+	[x] Anki review  
+	[x] THM: What is Networking?    
+	[x] THM: Intro to LAN  
+	[x] THM: OSI Model  
+	[x] THM: Packets & Frames  
+	[x] Anki cards added and synced    
+	[x] Session noted in cyber-log  
