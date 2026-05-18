@@ -349,9 +349,9 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 - **Volume Shadow Copy Service (VSS)** Creates a consistent shadow copy (snapshot) of the data that is to be backed up.  
 
 ### END OF SESSION
-**Stuck on anything?** 
-**Mood going out (one word):**   
-**Time spent:**   
+**Stuck on anything?** None  
+**Mood going out (one word):** Productive  
+**Time spent:** 1 Hour  
 
 **Completed:**  
 	[x] Anki review  
@@ -369,7 +369,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Music Listening Too:** None  
 
 #### NOTES
-
+- None
 ### END OF SESSION
 **Stuck on anything?** No. It was pretty basic stuff.   
 **Mood going out (one word):** Tired   
