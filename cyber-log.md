@@ -402,8 +402,8 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Time spent:** 30 Mins    
 
 **Completed:**  
-	[x] Anki review 
+	[x] Anki review  
 	[x] THM: Extending Your Network  
-	[x] Create Networking Cheatsheet
-	[x] Anki cards added and synced
-	[x] Session noted in cyber-log
+	[x] Create Networking Cheatsheet  
+	[x] Anki cards added and synced  
+	[x] Session noted in cyber-log  
