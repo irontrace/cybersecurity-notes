@@ -369,7 +369,8 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Music Listening Too:** None  
 
 #### NOTES
-- None
+- None  
+
 ### END OF SESSION
 **Stuck on anything?** No. It was pretty basic stuff.   
 **Mood going out (one word):** Tired   
@@ -383,3 +384,26 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 	[x] THM: Packets & Frames  
 	[x] Anki cards added and synced    
 	[x] Session noted in cyber-log  
+	
+	
+### START OF SESSION
+**Date:** May 19, 2026  
+**Session:** Day 12  
+**Goal Today:** Anki review, THM: Extending the Network, Networking Cheatsheet, and Add Anki Cards   
+**Mood going in (one honest word):** Refreshed    
+**Music Listening Too:** Tchaikovsky Techno Mix  
+
+#### NOTES
+- None
+
+### END OF SESSION
+**Stuck on anything?** No. Pretty basic stuff   
+**Mood going out (one word):** Relaxed   
+**Time spent:** 30 Mins    
+
+**Completed:**  
+	[x] Anki review 
+	[x] THM: Extending Your Network  
+	[x] Create Networking Cheatsheet
+	[x] Anki cards added and synced
+	[x] Session noted in cyber-log

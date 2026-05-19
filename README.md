@@ -31,6 +31,7 @@ Phase 1: Foundation (Days 1 - 90) - IN PROGRESS
 - [x] THM: Intro to LAN (May 18, 2026)  
 - [x] THM: OSI Model (May 18, 2026)  
 - [x] THM: Packets and Frames (May 18, 2026)  
+- [x] THM: Extending Your Network (May 19, 2026)  
 
 ### MODULE COMPLETE  
 - [x] THM Pre-Security: Introduction to Cyber Security (May 2, 2026)  
