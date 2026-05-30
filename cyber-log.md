@@ -406,4 +406,25 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 	[x] THM: Extending Your Network  
 	[x] Create Networking Cheatsheet  
 	[x] Anki cards added and synced  
-	[x] Session noted in cyber-log  
+	[x] Session noted in cyber-log 
+
+### START OF SESSION
+**Date:** May 29, 2026  
+**Session:** Day 13   
+**Goal Today:** Anki review, Setup T14 Laptop, and Clone Git Repo  
+**Mood going in (one honest word):** Exhausted  
+**Music Listening Too:** None  
+
+### NOTES
+- None
+
+### END OF SESSION
+**Stuck on anything?** No. Didnt work on anything really except setting up laptop.  
+**Mood going out (one word):** Exhausted  
+**Time spent:** 1 Hour  
+
+**Completed:"  
+    [x] Anki review  
+    [x] Setup T14 Laptop  
+    [x] Clone Git Repo  
+    [x] Session noted in cyber-log  
