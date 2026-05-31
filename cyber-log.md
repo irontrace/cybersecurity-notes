@@ -423,8 +423,33 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Mood going out (one word):** Exhausted  
 **Time spent:** 1 Hour  
 
-**Completed:"  
+**Completed:**    
     [x] Anki review  
     [x] Setup T14 Laptop  
     [x] Clone Git Repo  
-    [x] Session noted in cyber-log  
+    [x] Session noted in cyber-log 
+
+#### START OF SESSION
+**Date:** May 31, 2026  
+**Session:** Day 14  
+**Goal Today:** Anki review and Complete Nmap Room  
+**Mood going in (one honest word):** Sick   
+**Music Listening Too:** None  
+
+### Notes
+
+- Utilizing the TCP/IP Model, The Link Layer uses the ARP Protocol, Network Layer uses ICMP Protocol, and Transport Layer Uses TCP/UDP.  
+- ICMP Type 8 (Echo) and ICMP Type 0 (Echo Reply).  
+- When scanning targets with Nmap and a privileged user, it will use ARP requests on a local network. It will use ICMP echo requests, TCP ACK to port 80 and TCY SYN to port 443, and ICMP timestamp requests.  
+- If user is unprivileged, it will scan using a TCP 3-way handshake by sending SYN packets to ports 80 and 443.  
+
+### END OF SESSION
+**Stuck on anything?** No. Did not finish the Nmap Room.  
+**Mood going out (one word):** Drained  
+**Time spent:** 20 Minutes  
+
+**Completed:**  
+    [x] Anki review
+    [] Nmap Room
+
+
