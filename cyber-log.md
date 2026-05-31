@@ -449,7 +449,7 @@ wget -qO - <link to gpg file> | sudo apt-key add -
 **Time spent:** 20 Minutes  
 
 **Completed:**  
-    [x] Anki review
+    [x] Anki review  
     [] Nmap Room
 
 
